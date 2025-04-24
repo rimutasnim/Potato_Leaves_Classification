@@ -1,4 +1,4 @@
-# Potato Leaf Disease Classification using CNN and Grad-CAM
+# Potato Leaves Classification using CNN and Grad-CAM
 
 ## Introduction
 
