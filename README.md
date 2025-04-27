@@ -58,7 +58,7 @@ The performance of the following TL models for Potato tuber and leaf disease cla
   <img src="https://raw.githubusercontent.com/rimutasnim/Potato_Leaves_Classification/c6cffe61fdeb211e44a32b6b42da37170cfbcb99/screenshots/table_leaf.png" alt="model comparison" />
 </div>
 
-                                               Best performing models learning Curve
+                                               Best performing model(EfficientNetV2B0) learning Curve
 
   ![L_curve_for_EfficientNetV2B0_leaves](https://github.com/rimutasnim/Potato_Leaves_Classification/blob/main/screenshots/L_curve_for_EfficientNetV2B0_leaves.png?raw=true)
                                                 
